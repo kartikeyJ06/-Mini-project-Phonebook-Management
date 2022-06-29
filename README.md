@@ -1,4 +1,4 @@
-# -Mini-project-Library-Management
+# -Mini-project-Phonebook-Management
 #include <stdio.h>
 #include <time.h>
 #include <string.h>
