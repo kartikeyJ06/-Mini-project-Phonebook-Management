@@ -1,4 +1,3 @@
-#-Mini-project-Phonebook-Management
 #include<stdio.h>
 #include<conio.h>
 #include<string.h>
@@ -330,4 +329,5 @@ void got(char *name)
     }while(c!=13);
       *(name+i)='\0';
 }
+/* END of the code/*
 
